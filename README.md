@@ -1,3 +1,24 @@
+# 👋 Hi, I’m Livinus Godwin
+
+💻 I’m a beginner developer learning **Web3 & Blockchain (Ethereum, Solidity, Smart Contracts)**.  
+🚀 Currently building projects to grow my skills in **dApps, tokens, and NFTs**.  
+📚 Open to collaborations and learning opportunities.  
+
+## 🔧 Skills (Growing)
+- Solidity (Smart Contract Development)  
+- JavaScript / Node.js basics  
+- Git & GitHub  
+
+## 📊 My GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+
+## 📬 Contact Me
+- Email: livinusgodwin321@gmail.com  
+- Twitter: [@yourhandle](https://twitter.com/)  
+- LinkedIn: [Your LinkedIn Profile]  
+
+---
+⭐️ *I’m on a journey to Web3 mastery — follow my repos to grow with me!*
 ## Hi there 👋
 
 <!--
