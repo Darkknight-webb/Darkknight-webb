@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Livinus Godwin
+# 👋 Hi, I’m Darkknight-Webb
 
 💻 I’m a beginner developer learning **Web3 & Blockchain (Ethereum, Solidity, Smart Contracts)**.  
 🚀 Currently building projects to grow my skills in **dApps, tokens, and NFTs**.  
@@ -14,12 +14,12 @@
 
 ## 📬 Contact Me
 - Email: livinusgodwin321@gmail.com  
-- Twitter: [@yourhandle](https://twitter.com/)  
-- LinkedIn: [Your LinkedIn Profile]  
+- Twitter: [@livinxchi](https://twitter.com/)  
+
 
 ---
 ⭐️ *I’m on a journey to Web3 mastery — follow my repos to grow with me!*
-## Hi there 👋
+
 
 <!--
 **Darkknight-webb/Darkknight-webb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
